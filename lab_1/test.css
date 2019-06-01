@@ -1,0 +1,9 @@
+div {
+    font-weight: bold;
+    margin: 50px;
+    border: 1pt solid green;
+}
+p {
+    border: inherit;
+    margin: inherit;
+}
