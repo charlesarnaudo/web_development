@@ -1,0 +1,114 @@
+body {
+	font-family: Georgia, Cambria, "Times New Roman", serif;
+	font-size: 100%;
+	background-color: #213643;
+}
+
+h1 {
+	font-size: 24px;
+	font-size: 1.5rem;
+}
+
+h2 {
+	font-size: 14px;
+	font-size: 0.75rem;
+}
+
+h3 {
+	font-size: 18px;
+	font-size: 1.125rem;
+	border-bottom: solid 1pt #999999;
+	margin: 0 0 0.5em 0;
+}
+
+p {
+	font-size: 16px;
+	font-size: 1rem;
+}
+
+nav {
+	font-size: 18px;
+	font-size: 1.125rem;
+}
+
+header,
+footer {
+	color: white;
+	background-color: #3D6271;
+	margin: 0em 4em 0.5em 4em;
+}
+
+nav {
+	background-color: #728B96;
+}
+
+a:visited {
+	color: #BB78FF;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline;
+}
+
+nav {
+	padding: 0.25em;
+}
+
+nav a {
+	padding: 0.25em;
+}
+
+main {
+	background-color: white;
+	margin: 1em 4em 1em 4em;
+	padding: 0.5em;
+}
+
+p {
+	margin: 0 0 0.5em 0;
+}
+
+figure {
+	margin: 0.5em 0 0.5em 0;
+}
+
+figure img {
+	padding: 0.25em;
+	border: solid 1px #999999;
+}
+
+figcaption {
+	margin-bottom: 0.5em;
+}
+
+#reviews {
+	margin-top: 1em;
+}
+
+a:hover {
+	background-color: #FFFFCC;
+}
+
+#reviews div {
+	border-bottom: dotted 1pt #999999;
+	margin-bottom: 1.25em;
+}
+
+#reviews p {
+	margin: 0;
+}
+
+footer {
+	padding: 0.5em;
+}
+
+footer p {
+	font-size: 14px;
+	font-size: .875rem;
+}
+
+a:link {
+	font-weight: bold;
+	color: #47B3D7;
+}
