@@ -1,0 +1,64 @@
+h1 h2 h3 nav footer {
+	font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+
+legend {
+	background-color: aliceblue;
+	margin: 0 auto;
+	width: 90%;
+	padding: 0.25em;
+	text-align: center;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+body {
+	font-family: "Open Sans";
+	font-size: 85%;
+}
+
+table {
+	border: collapse;
+	border-spacing: 0;
+	width: 90%;
+	margin: 0 auto;
+}
+
+table tbody td {
+	line-height: 1.5em;
+	vertical-align: top;
+	padding: 0.5em 0.75em;
+}
+
+fieldset {
+	margin: 1em auto;
+	background-color: rgb(252, 252, 255);
+	width: 60%;
+}
+
+form p {
+	margin-top: 0.5em;
+}
+
+.box {
+	border: 1pt solid aliceblue;
+	padding: 0.5em;
+	margin-bottom: 0.4em;
+}
+
+.rectangle {
+	background-color: rgb(241, 247, 252);
+	padding: 0.5em;
+}
+
+.rounded {
+	border: 1px solid midnightblue;
+	border-bottom: 1px solid black;
+	border-radius: 5px;
+	text-align: center;
+	color: white;
+	background-color: lightsteelblue;
+	padding: 0.5em 0 0.5em 0;
+	margin: 0.3em;
+	width: 7em;
+}
