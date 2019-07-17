@@ -1,0 +1,22 @@
+.makeItDisappear {
+    -webkit-filter: opacity(0);
+    -webkit-transition: -webkit-filter 1.5s;
+
+    filter: opacity(0);
+    transistion-duration: 1.5s;
+    transition-property: filter -wekbit-filter;
+}
+
+.makeItGray {
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: -webkit-filter 1.5s;
+    filter: grayscale(100%);
+    transition: filter 1.5s
+}
+
+.makeItNormal {
+    -webkit-filter: none;
+    -webkit-transition: -webkit-filter 1.5s;
+    filter: none;
+    transition: filter 1.5s
+}
